@@ -12,11 +12,11 @@
   "keywords": [
     "pdf",
     "pdfjs",
-    "online pdf reader",
+    "online pdf reader"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/shek8034/online-pdf-renderer.git""
+    "url": "https://github.com/shek8034/online-pdf-renderer.git"
   },
   "dependencies": {
     "express": "^4.14.0"
