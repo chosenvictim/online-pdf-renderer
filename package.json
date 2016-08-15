@@ -1,5 +1,5 @@
 {
-  "name": "Online Pdf reader",
+  "name": "Online Pdf renderer",
   "version": "1.0.0",
   "description": "A pdf rendering application on browser",
   "main": "server.js",
@@ -14,6 +14,10 @@
     "pdfjs",
     "online pdf reader",
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shek8034/online-pdf-renderer.git""
+  },
   "dependencies": {
     "express": "^4.14.0"
   }
