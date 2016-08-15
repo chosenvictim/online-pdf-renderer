@@ -37096,10 +37096,12 @@ var PartialEvaluator = (function PartialEvaluatorClosure() {
         return;
       }
       var maxImageSize = this.options.maxImageSize;
-      if (maxImageSize !== -1 && w * h > maxImageSize) {
-        warn('Image exceeded maximum allowed size and was removed.');
-        return;
-      }
+
+      // Commented by Shek as we are getting large size images
+      // if (maxImageSize !== -1 && w * h > maxImageSize) {
+      //   warn('Image exceeded maximum allowed size and was removed.');
+      //   return;
+      // }
 
       var imageMask = (dict.get('ImageMask', 'IM') || false);
       var imgData, args;
