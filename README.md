@@ -20,9 +20,9 @@ A utility to render pdf files on browser and customize the behaviour.
 **Demo**
 
 1. Clone the repo.
-2. Run ```npm install``  to install the required dependencies.
+2. Run ```npm install```  to install the required dependencies.
 3. Run ```node server.js``` which runs the local server on port 3010.
-4. Open http://localhost:3010 and you will be seeing a default pdf rendered on your browser. Check the Network tab and it will be downloading the pdf as components.
+4. Open ```http://localhost:3010``` and you will be seeing a default pdf rendered on your browser. Check the Network tab and it will be downloading the pdf as components.
 
 
 **Licence**  
