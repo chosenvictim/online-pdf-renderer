@@ -5,8 +5,7 @@ PDFJS.workerSrc = './build/generic/build/pdf.worker.js';
 PDFJS.cMapUrl = './build/generic/web/cmaps/';
 PDFJS.cMapPacked = true;
 
-var DEFAULT_URL = './1TheHindu-Full-23June16-1ias.com.pdf';
-// var DEFAULT_URL = "./tracemonkey.pdf";
+var DEFAULT_URL = './TheHindu-Full-23June16.pdf';
 var DEFAULT_SCALE_DELTA = 1.1;
 var MIN_SCALE = 0.25;
 var MAX_SCALE = 10.0;
