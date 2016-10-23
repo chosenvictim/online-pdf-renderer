@@ -1,5 +1,5 @@
 {
-  "name": "Online Pdf renderer",
+  "name": "online-pdf-renderer",
   "version": "1.0.0",
   "description": "A pdf rendering application on browser",
   "main": "server.js",
@@ -12,7 +12,7 @@
   "keywords": [
     "pdf",
     "pdfjs",
-    "online pdf reader",
+    "online pdf reader"
   ],
   "repository": {
     "type": "git",
